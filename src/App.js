@@ -13,6 +13,9 @@ function App() {
         <p>
           Changes were made from feature branch
         </p>
+        <p>
+          Another change made from feature branch
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
